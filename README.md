@@ -1,4 +1,4 @@
-# example
+# Flutter Docs App
 
 A new Flutter project.
 
