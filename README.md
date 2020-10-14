@@ -1,4 +1,4 @@
-# Flutter Docs App
+# Flutter Polls App
 
 A new Flutter project.
 
